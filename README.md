@@ -1,7 +1,7 @@
 Olá, eu sou o Thalles Manini  
 
 🎓 Tenho 18 anos e atualmente curso o 3º ano do Ensino Médio integrado ao Técnico em Informática.  
-💻 Apaixonado por **tecnologia e desenvolvimento, estou sempre buscando aprender e evoluir.  
+💻 Apaixonado por **tecnologia** e desenvolvimento, estou sempre buscando aprender e evoluir.  
 
 ---
  🚀 Áreas de Interesse  
