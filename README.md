@@ -34,4 +34,4 @@ Seguir carreira na área de tecnologia, aplicando meus conhecimentos e expandind
 
 ---
 
-✨ Sempre aberto a aprender coisas novas e compartilhar conhecimento!  
+✨ Sempre em busca de aprender coisas novas e compartilhar conhecimento!  
