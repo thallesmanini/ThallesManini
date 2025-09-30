@@ -12,10 +12,6 @@
 
 ---
 
- 🎯 Objetivo  
-Seguir carreira na área de tecnologia, aplicando meus conhecimentos e expandindo minhas habilidades em novos projetos.  
-
----
 
 🛠️ Tecnologias & Ferramentas  
 <div>
