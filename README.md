@@ -29,7 +29,7 @@ Seguir carreira na área de tecnologia, aplicando meus conhecimentos e expandind
 ---
 
  📊 Estatísticas do GitHub  
-![Thalles GitHub stats](https://github-readme-stats.vercel.app/api?username=thallesmanini&show_icons=true&theme=tokyonight)  
+![Thalles GitHub stats](https://github-readme-stats.vercel.app/api?username=thallesmanini&show_icons=true&theme=tokyonight&custom_title=Minhas%20Estatísticas%20no%20GitHub)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thallesmanini&layout=compact&theme=tokyonight)  
 
 ---
